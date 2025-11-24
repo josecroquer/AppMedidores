@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Medidores</string>
+
+    <!-- Pantalla de Listado -->
+    <string name="lista_titulo">Mediciones Registradas</string>
+    <string name="lista_registro_vacio">No hay mediciones registradas.</string>
+
+    <!-- Pantalla de Registro -->
+    <string name="registro_titulo">Registro Medidor</string>
+    <string name="registro_label_valor">Lectura del Medidor</string>
+    <string name="registro_label_fecha">Fecha</string>
+    <string name="registro_label_tipo">Tipo de servicio:</string>
+    <string name="registro_opcion_agua">Agua</string>
+    <string name="registro_opcion_luz">Luz</string>
+    <string name="registro_opcion_gas">Gas</string>
+    <string name="registro_btn_guardar">Registrar</string>
+
+    <!-- Tipos de Gasto -->
+    <string name="tipo_agua">AGUA</string>
+    <string name="tipo_luz">LUZ</string>
+    <string name="tipo_gas">GAS</string>
+</resources>
